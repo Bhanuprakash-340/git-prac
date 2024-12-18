@@ -8,6 +8,7 @@ function App() {
        <h1> DEVELOP BRANCH</h1>
        <h2>pushing code into the develop branch 1st commit </h2>
        <h2>pushing code into the develop branch 2nd commit SDE/2 </h2>
+       <p>react is an open source js library</p>
        </div>
     </>
   )
