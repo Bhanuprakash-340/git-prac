@@ -11,6 +11,10 @@ function App() {
        <p>angular is a js framework</p>
        <p>react is an open source js library</p>
        <p>hanu branch is created </p>
+       <p>git is a version control system</p>
+       <p>react</p>
+       <p>angular</p>
+       <p>git</p>
        </div>
     </>
   )
